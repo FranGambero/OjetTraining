@@ -1,0 +1,12 @@
+<div class="oj-hybrid-padding">
+    <h1>Validation zone</h1>
+    <oj-film-strip>
+        <oj-bind-for-each data="[[chemicals]]" as="chemical">
+            <template>
+                <span class="oj-panel oj-panel-alt3">
+                    <oj-bind-text value="[[chemical.data.name]]"></oj-bind-text>
+                </span>
+            </template>
+        </oj-bind-for-each>
+    </oj-film-strip>
+</div>

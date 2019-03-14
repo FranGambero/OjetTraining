@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Peatones",
+        "items": [
+            42
+        ]
+    },
+    {
+        "name": "Vehiculos",
+        "items": [
+            55
+        ]
+    },
+    {
+        "name": "Bicicletas",
+        "items": [
+            36
+        ]
+    }
+]
